@@ -1,4 +1,4 @@
-module github.com/raphapaulino/devfullcycle/imersao17/goapi
+module github.com/raphapaulino/devfullcycle-imersao17-goapi
 
 go 1.21.6
 
